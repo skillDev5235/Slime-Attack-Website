@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+**________________________________________________________________**
+ 
+## » PRIVACY POLICY
 
-You can use the [editor on GitHub](https://github.com/skillDev5235/Slime-Attack-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**________________________________________________________________**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### » 0.❗HINWEIS❗
 
-### Markdown
+**Falls Sie die Nutzungsbedingungen bzw. Datenschutzrichtlinien nicht akzeptieren, installieren und nutzen Sie unser Spiel bitte NICHT**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**________________________________________________________________**
 
-```markdown
-Syntax highlighted code block
+### » 1. WELCHE IHRER DATEN WERDEN GESPEICHERT
 
-# Header 1
-## Header 2
-### Header 3
+Aktuell werden folgende ihrer Spieldaten gesichert:
 
-- Bulleted
-- List
+> **Münzen-Menge**
+> 
+> **Kill-Rekord**
+> 
+> **Münzen-Rekord**
+> 
+> **Spielername**
+> 
+> **Besitz von Kleidungsstücken**
+> 
+> **Datum des ersten Spielens**
+> 
+> **XP-Wert**
+> 
+> **Spielerlevel**
 
-1. Numbered
-2. List
+### » 2. WIE WERDEN IHRE DATEN GESICHERT
 
-**Bold** and _Italic_ and `Code` text
+> All ihre Daten ausschließlich des Spielernamens & Kill-Rekordes werden mittels einer Funktion der Game-Engine direkt auf ihrem Gerät gespeichert. [Mehr über die Funktion “PlayerPrefs“ der Unity Game-Engine](https://docs.unity3d.com/ScriptReference/PlayerPrefs.html)
+> 
+> Ihr Spielername samt ihrem Kill-Rekord wird in einem sogenannten Leaderboard des Apple-eigenen dienstes Game Center gespeichert. Sollten sie einen Game Center Account besitzen, werden sie automatisch angemeldet. [Mehr über Apples Game Center](https://developer.apple.com/game-center/)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### » 3. WARUM WERDEN IHRE DATEN GESICHERT
 
-### Jekyll Themes
+> Nur mit dem sichern ihrer Daten ist es möglich, Spielstände auch dann beizubehalten, wenn sie unser Spiel beispielsweiße schließen.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skillDev5235/Slime-Attack-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### » 4. WEITERGABE IHRER DATEN AN DRITTE
 
-### Support or Contact
+> Da alle Daten auf ihrem Gerät gespeichert werden, sind wir nicht in der Lage, sie an Drittanbieter weiterzugeben. Selbstverständlich werden auch ihre Daten in der Bestenliste nicht weitergegeben.
+> 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### » 5. SICHERHEIT IHRER DATEN
+> Wir haben die größten Bemühungen, ihre Daten sicher zu halten.
+> 
+
+### » 6. SPEICHERDAUER IHRER DATEN
+
+> Sofern nicht spezifisch angegeben speichern wir personenbezogene Daten nur so lange, wie dies zur Erfüllung der verfolgten Zwecke notwendig ist.
