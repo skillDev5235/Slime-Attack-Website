@@ -19,14 +19,16 @@ Aktuell werden folgende ihrer Spieldaten gesichert:
 > **Kill-Rekord**
 > 
 > **Münzen-Rekord**
-> 
-> **Spielername**
-> 
+>  
 > **Besitz von Kleidungsstücken**
 > 
 > **Datum des ersten Spielens**
 > 
-> **XP-Wert**
+> **Münzen und Kills jemals gemacht**
+> 
+> **Lautstärke**
+> 
+> **XP-Werte**
 > 
 > **Spielerlevel**
 
