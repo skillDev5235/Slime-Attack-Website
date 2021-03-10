@@ -4,7 +4,7 @@
 
 **________________________________________________________________**
 
-### » 0.❗HINWEIS❗
+### » 0. WICHTIG !!! 
 
 **Falls Sie die Nutzungsbedingungen bzw. Datenschutzrichtlinien nicht akzeptieren, installieren und nutzen Sie unser Spiel bitte NICHT**
 
