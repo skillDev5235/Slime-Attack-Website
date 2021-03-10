@@ -14,29 +14,20 @@
 
 Aktuell werden folgende ihrer Spieldaten gesichert:
 
-> **Münzen-Menge**
+> **Stats wie Spielzeit, Highscores, usw.**
 > 
-> **Kill-Rekord**
-> 
-> **Münzen-Rekord**
->  
 > **Besitz von Kleidungsstücken**
 > 
-> **Datum des ersten Spielens**
+> **Einstellungen wie Lautstärke, FPS, usw.**
 > 
-> **Münzen und Kills jemals gemacht**
+> **XP-Werte & Level**
 > 
-> **Lautstärke**
-> 
-> **XP-Werte**
-> 
-> **Spielerlevel**
 
 ### » 2. WIE WERDEN IHRE DATEN GESICHERT
 
 > All ihre Daten ausschließlich des Spielernamens & Kill-Rekordes werden mittels einer Funktion der Game-Engine direkt auf ihrem Gerät gespeichert. [Mehr über die Funktion “PlayerPrefs“ der Unity Game-Engine](https://docs.unity3d.com/ScriptReference/PlayerPrefs.html)
 > 
-> Ihr Spielername samt ihrem Kill-Rekord wird in einem sogenannten Leaderboard des Apple-eigenen dienstes Game Center gespeichert. Sollten sie einen Game Center Account besitzen, werden sie automatisch angemeldet. [Mehr über Apples Game Center](https://developer.apple.com/game-center/)
+> Ihr Spielername samt ihrem Kill-Rekord wird in einem sogenannten Leaderboard des Apple-eigenen dienstes Game Center gespeichert. Sollten sie einen Game Center Account besitzen, werden sie automatisch angemeldet. Andernfalls können sie die Bestenliste nicht nutzen. [Mehr über Apples Game Center](https://developer.apple.com/game-center/)
 
 
 ### » 3. WARUM WERDEN IHRE DATEN GESICHERT
